@@ -31,3 +31,6 @@ Improved Sales and Revenue:
 
 **Conversion Rates**: Personalized recommendations can boost conversion rates by presenting users with items they are more likely to buy.<br>
 **Repeat Business**: Satisfied customers are more likely to return, fostering customer loyalty and repeat business.
+
+
+<img src="(https://github.com/smitbhanderi3/fashion-recommender-system/blob/master/Screenshot%202023-11-23%20093514.png)https://github.com/smitbhanderi3/fashion-recommender-system/blob/master/Screenshot%202023-11-23%20093514.png">
